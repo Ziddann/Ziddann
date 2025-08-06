@@ -1,6 +1,7 @@
 
 
-````markdown
+---
+
 <h1 align="center">Hey there 👋, I'm Ziddan Fadillah</h1>
 <p align="center">Fullstack Web Developer • Code Enthusiast • Python & JavaScript Fan</p>
 
@@ -8,10 +9,9 @@
 
 ### 🧠 About Me
 
-- 💻 I enjoy building web applications from scratch
-- 🐍 Currently learning advanced **Python**, automation, and data tools
-- ⚛️ Experienced in both frontend (React, Tailwind) and backend (Node.js, MySQL)
-- 🎯 Always exploring new ways to solve real-world problems with code
+* 💻 I enjoy building web applications from scratch
+* ⚛️ Experienced in both frontend (React, Tailwind) and backend (Node.js, MySQL)
+* 🎯 Always exploring new ways to solve real-world problems with code
 
 ---
 
@@ -39,15 +39,17 @@
 
 ### 👾 Pac-Man Tracker
 
-```text
+<pre>
              .--.
            .'_\/_'.
           = = o = =   MUNCHING THROUGH CODE...
            .'/\'.'
              "--"
-````
+</pre>
 
 ---
+
+
 
 ### 📊 GitHub Stats
 
