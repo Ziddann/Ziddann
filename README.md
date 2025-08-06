@@ -3,7 +3,7 @@
 ---
 
 <h1 align="center">Hey there 👋, I'm Ziddan Fadillah</h1>
-<p align="center">Fullstack Web Developer • Code Enthusiast • Python & JavaScript Fan</p>
+<p align="center"> • Code Enthusiast •</p>
 
 ---
 
