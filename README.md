@@ -1,11 +1,4 @@
-Siap! Berikut adalah versi `README.md` profil GitHub kamu yang:
 
-✅ Berisi bio personal
-✅ Ada Pac-Man animasi
-✅ Menyertakan **ikon-ikon tools & bahasa pemrograman** yang kamu minta
-✅ Terstruktur dan keren buat tampil profesional & menarik
-
----
 
 ````markdown
 <h1 align="center">Hey there 👋, I'm Ziddan Fadillah</h1>
@@ -76,18 +69,3 @@ Siap! Berikut adalah versi `README.md` profil GitHub kamu yang:
 
 ```
 
----
-
-### 🎁 Siap Diimplementasikan
-- Buat repo `Ziddann`
-- Tambahkan file `README.md`
-- Paste isi di atas
-- Commit dan lihat profil GitHub-mu jadi keren 🚀
-
-Kalau kamu mau:
-- Tambahan badge pencapaian
-- Banner visual di header
-- QR ke portofolio / CV PDF
-
-…langsung bilang aja ya!
-```
